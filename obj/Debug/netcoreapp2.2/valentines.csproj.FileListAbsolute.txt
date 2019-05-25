@@ -1,0 +1,14 @@
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.csprojAssemblyReference.cache
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.csproj.CoreCompileInputs.cache
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.RazorAssemblyInfo.cache
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.RazorAssemblyInfo.cs
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.AssemblyInfoInputs.cache
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.AssemblyInfo.cs
+C:\source\afterCW\valentines\bin\Debug\netcoreapp2.2\valentines.deps.json
+C:\source\afterCW\valentines\bin\Debug\netcoreapp2.2\valentines.runtimeconfig.json
+C:\source\afterCW\valentines\bin\Debug\netcoreapp2.2\valentines.runtimeconfig.dev.json
+C:\source\afterCW\valentines\bin\Debug\netcoreapp2.2\valentines.dll
+C:\source\afterCW\valentines\bin\Debug\netcoreapp2.2\valentines.pdb
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.RazorTargetAssemblyInfo.cache
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.dll
+C:\source\afterCW\valentines\obj\Debug\netcoreapp2.2\valentines.pdb
